@@ -6,6 +6,5 @@
 
   <h1>
     Desafio #01 - Página de Receita
-    Feito com Html e css.
-    ![image](https://github.com/user-attachments/assets/6e28ef47-7dec-4518-aa96-f2adcebb8d19)
+    Feito com Html e css. 
   </h1>
